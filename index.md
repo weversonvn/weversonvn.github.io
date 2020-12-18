@@ -1,6 +1,4 @@
-# Weverson Nascimento
-
-Oi, eu sou o ~~Goku~~ Weverson e esse é o meu ~~pseudo~~site (obrigado pelos mimos, GitHub). Sou Belenense do Barreio (sim, eu gosto de brega e de carimbó), Engenheiro de Computação e mestrando em Engenharia Elétrica pela Universidade Federal do Pará ([UFPA](https://portal.ufpa.br)). Programo principalmente em Python e sou defensor do uso de _softwares_ livres e de código aberto (amém, Linux).
+Oi, eu sou o ~~Goku~~ Weverson e esse é o meu site (obrigado pelos mimos, GitHub). Sou Belenense do Barreio (sim, eu gosto de brega e de carimbó), Engenheiro de Computação e mestrando em Engenharia Elétrica pela Universidade Federal do Pará ([UFPA](https://portal.ufpa.br)). Programo principalmente em Python e sou defensor do uso de _softwares_ livres e de código aberto (amém, Linux).
 
 ## Atuação
 
