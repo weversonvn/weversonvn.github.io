@@ -6,7 +6,7 @@ Este repositório contém o código fonte do site exibido em [https://weversonvn
 
 ## Uso
 
-Os arquivos desse repositório funcionam em qualquer repositório que esteja habilitado para uso com o GitHub Pages. Se necessário, altere o tema do site editando o arquivo `_config.yml_ na linha apropriada.
+Os arquivos desse repositório funcionam em qualquer repositório que esteja habilitado para uso com o GitHub Pages. Se necessário, altere o tema do site editando o arquivo _config.yml_ na linha apropriada.
 
 ## Licença
 
