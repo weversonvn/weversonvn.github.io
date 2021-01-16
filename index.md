@@ -12,4 +12,4 @@ Tem alguns outros trabalhos voluntários, mas como estou parado neles não conv�
 
 ## Contato
 
-Se me encontraste através desse site então a melhor forma de falares comigo é mandando um _e-mail_ para [weverson@ufpa.br](weverson@ufpa.br).
+Se me encontraste através desse site então a melhor forma de falares comigo é mandando um _e-mail_ para [weverson@ufpa.br](mailto:weverson@ufpa.br).
